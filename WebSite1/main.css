@@ -1,0 +1,38 @@
+﻿#wrapper {
+    width:1024px;
+    margin-left:auto;
+      margin-right:auto;
+      
+}
+
+.banner_top {
+              width: 100%;
+        }
+
+        .navbar
+        {
+            width: 100%;
+        }
+        #banner_left
+        {
+            width: 20%;
+        }
+        .navbar_ul
+        {
+            text-align: center;
+            width:100px;
+            height:20px;
+        }
+        .banner_middle
+        {
+            width: 61%;
+        }
+        .banner_right 
+        {
+            width: 20%;
+            float:right;
+        }
+
+body {
+    background-image: url("/Images/clouds-bg.png");
+}
