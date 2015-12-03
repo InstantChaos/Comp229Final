@@ -48,12 +48,12 @@
         </tr>
         <tr>
             <td style="width: 150px">
-                <img alt="BuzzShoes" height="200" src="images/buzzshoe.jpg" width="300" /></td>
+                <img alt="BuzzShoes" height="200" src="images/pumashoe.jpg" width="300" /></td>
             <td>
-                <h4 class="auto-style4">Kids BuzzLight year shoes</h4>
+                <h4 class="auto-style4"> Red Puma shoes</h4>
             </td>
             <td>
-                <h3 class="auto-style4">$49.99</h3>
+                <h3 class="auto-style4">$89.99</h3>
             </td>
         </tr>
     </table>
