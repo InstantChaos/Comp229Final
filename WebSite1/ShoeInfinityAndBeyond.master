@@ -35,16 +35,16 @@
         <table class="navbar">
             <tr>
                 <td style="border-right: 1px dotted black;" class="navbar_ul">
-                    <asp:HyperLink ID="hyperOne" runat="server">Home</asp:HyperLink>
+                    <asp:HyperLink ID="hyperOne" runat="server" NavigateUrl="~/WebSite1/Default.aspx">Home</asp:HyperLink>
                 </td>
                 <td style="border-right: 1px dotted black;" class="navbar_ul">
-                    <asp:HyperLink ID="HyperTwo" runat="server">New Arrivals</asp:HyperLink>
+                    <asp:HyperLink ID="HyperTwo" runat="server" NavigateUrl="~/WebSite1/NewArrival.aspx">New Arrivals</asp:HyperLink>
                 </td>
                 <td style="border-right: 1px dotted black;" class="navbar_ul">
                     <asp:HyperLink ID="hyperThree" runat="server">Our Brands</asp:HyperLink>
                 </td>
                 <td style="border-right: 1px dotted black;" class="navbar_ul">
-                    <asp:HyperLink ID="hyperFour" runat="server">Sale</asp:HyperLink>
+                    <asp:HyperLink ID="hyperFour" runat="server" NavigateUrl="~/WebSite1/Sales.aspx">Sale</asp:HyperLink>
                 </td>
                 <td style="border-right: 1px dotted black;" class="navbar_ul">
                     <asp:HyperLink ID="HyperFive" runat="server">Contact</asp:HyperLink>
