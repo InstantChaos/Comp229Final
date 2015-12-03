@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/ShoeInfinityAndBeyond.master" AutoEventWireup="true" CodeFile="Sales.aspx.cs" Inherits="Sales" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="ShoeInfinityAndBeyond.master" AutoEventWireup="true" CodeFile="Sales.aspx.cs" Inherits="Sales" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
     <style type="text/css">
@@ -43,10 +43,13 @@
         </td>
         <td> 
             <h3 class="auto-style6"> 50% </h3>
-        </td>        <td>
+        </td>
+        <td>
             <h3 class="auto-style6"> $49.98</h3>
         </td>
-    </tr>    <tr>
+    </tr>
+
+    <tr>
         <td style="width: 150px">
 		<img alt="AllStarShoes" height="200" src="images/allstar.jpg" width="300" /></td>
         <td>
@@ -57,10 +60,13 @@
         </td>
         <td> 
             <h3 class="auto-style6"> 20% </h3>
-        </td>        <td>
+        </td>
+        <td>
             <h3 class="auto-style6"> $60.8</h3>
         </td>
-    </tr>     <tr>
+    </tr>
+
+     <tr>
         <td style="width: 150px">
 		<img alt="NikeShoes" height="200" src="images/nike.jpg" width="300" /></td>
         <td>
@@ -71,10 +77,13 @@
         </td>
         <td> 
             <h3 class="auto-style6"> 35% </h3>
-        </td>        <td>
+        </td>
+        <td>
             <h3 class="auto-style6"> $78.65</h3>
         </td>
-    </tr>     <tr>
+    </tr>
+
+     <tr>
         <td style="width: 150px">
 		<img alt="ConverseShoes" height="200" src="images/converse.jpg" width="300" /></td>
         <td>
@@ -85,7 +94,8 @@
         </td>
         <td> 
             <h3 class="auto-style6"> 30% </h3>
-        </td>        <td>
+        </td>
+        <td>
             <h3 class="auto-style6"> $60.2</h3>
         </td>
     </tr>

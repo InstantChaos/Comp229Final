@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/ShoeInfinityAndBeyond.master" AutoEventWireup="true" CodeFile="NewArrival.aspx.cs" Inherits="NewArrival" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="ShoeInfinityAndBeyond.master" AutoEventWireup="true" CodeFile="NewArrival.aspx.cs" Inherits="NewArrival" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
     <style type="text/css">
