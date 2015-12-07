@@ -47,7 +47,7 @@
                     <asp:HyperLink ID="hyperFour" runat="server" NavigateUrl="~/WebSite1/Sales.aspx">Sale</asp:HyperLink>
                 </td>
                 <td style="border-right: 1px dotted black;" class="navbar_ul">
-                    <asp:HyperLink ID="HyperFive" runat="server">Contact</asp:HyperLink>
+                    <asp:HyperLink ID="HyperFive" runat="server" NavigateUrl="~/Contact.aspx">Contact</asp:HyperLink>
                 </td>
             </tr>
         </table>

@@ -87,7 +87,7 @@
         <td style="width: 150px">
 		<img alt="ConverseShoes" height="200" src="images/converse.jpg" width="300" /></td>
         <td>
-		<h4 class="auto-style6">All-Star</h4>
+		<h4 class="auto-style6">Converse</h4>
 		</td>
         <td>
             <h3 class="auto-style6">$85.99</h3>
